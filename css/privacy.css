@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(77, 77, 77);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: rgb(253, 55, 104);
+    font-size: 30px;
+    border: solid red 1px;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 10px 20px;
+}
+
+.container {
+    margin: auto;
+    width: 70%;
+}
+
+p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 1px;
+
+}
+
+.big {
+    font-size: 25px;
+    font-weight: 700
+}
